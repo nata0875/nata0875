@@ -6,7 +6,7 @@ I am Nataliia Kalustova ;)
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="200" height="200"/>
 </div>
   
   ---
