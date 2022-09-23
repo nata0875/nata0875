@@ -14,6 +14,8 @@ I am Nataliia Kalustova ;)
 ### :woman_technologist: About Me :
  
 ### I am only a CS Student in <big>Redi school</big>/ Munich <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine. Please wish me luck.
+I like to explore new and hope to develop new knowledge ans skills.
+
 ### Connect with me  
 <a href="https://www.facebook.com/ttt">
 <img src="https://img.shields.io/badge/-facebook-yellow?logo=facebook&logocolor=white&style=for-the-badge "
